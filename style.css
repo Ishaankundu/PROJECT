@@ -1,0 +1,40 @@
+img{
+  width:400px;
+  border-radius:50%;
+}
+body{
+  text-align:center;
+  background-color:skyblue;
+    background-image: repeating-linear-gradient(aqua 0%,lightgreen 100%)
+ }
+hr{
+  padding:5px;
+ background-color:orange;
+  width:200px;
+}
+.menu{
+    font-family: monospace;
+    position: absolute;
+    top: 10px;
+    z-index: 10;
+   right: 20px;
+    list-style: none;
+    cursor: pointer;
+}
+.link{
+    float: left;
+    color: orange;
+    padding-top:5px;
+    padding-right: 8px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    font-family:cursive;
+        font-size: 15px;
+}
+#welcome{
+    height: 100%;
+    width: 100%;
+    z-index:9;
+    
+}
+width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
